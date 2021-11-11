@@ -1,0 +1,12 @@
+  .Links {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .Link {
+    color: #0e76a8;
+    margin: 10px 10px 10px 10px;
+    font-size: 30px;
+  }
+  
+  

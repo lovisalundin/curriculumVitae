@@ -1,4 +1,9 @@
 .Title {
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-weight: 100;
+    margin-bottom: 3px;
+}
+
+.Subtitle {
+    font-family:cursive;
 }
