@@ -66,3 +66,22 @@
     margin-right: 30px;
     margin-top: -8px;
 }
+
+.educationdiv{
+    display:flex;
+}
+.number {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 16px;
+    color: black;
+    text-align: left;
+    margin-left: 20px;
+    margin-right: 10px;
+
+}
+
+.educationTitle {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 16px;
+}
